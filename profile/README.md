@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/banner.png" alt="Log2n" width="640">
+  <img src="banner.png" alt="Log2n" width="640">
 </p>
 
 **Software-engineering company founded by [Loïc Baumann](https://github.com/nockawa)** — three decades building real-time 3D engines, server-side systems, and desktop applications.
